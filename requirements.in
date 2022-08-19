@@ -1,0 +1,10 @@
+dask[array,dataframe]
+joblib
+numpy
+sklearn-crfsuite
+pandas
+geopandas
+numba
+tqdm
+lightgbm
+git+https://github.com/jgrss/geowombat@master

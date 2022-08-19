@@ -1,0 +1,28 @@
+# OSX
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python
+build/
+*.c
+*.cpp
+*.so
+*.pyd
+*.log
+*.pyo
+*.pyc
+.idea
+*.egg-info/
+dist/
+.ipynb_checkpoints
+__pycache__/
+
+notebooks/
+scripts/
+rastercrf/models/
+
